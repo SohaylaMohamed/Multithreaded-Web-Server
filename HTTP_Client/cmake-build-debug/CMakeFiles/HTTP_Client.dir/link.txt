@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/HTTP_Client.dir/main.cpp.o CMakeFiles/HTTP_Client.dir/Client.cpp.o CMakeFiles/HTTP_Client.dir/FileSystem.cpp.o CMakeFiles/HTTP_Client.dir/Structs.cpp.o CMakeFiles/HTTP_Client.dir/Actions.cpp.o CMakeFiles/HTTP_Client.dir/Parser.cpp.o CMakeFiles/HTTP_Client.dir/Request.cpp.o  -o HTTP_Client 

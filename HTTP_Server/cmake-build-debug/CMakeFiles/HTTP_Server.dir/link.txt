@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/HTTP_Server.dir/main.cpp.o CMakeFiles/HTTP_Server.dir/Server.cpp.o CMakeFiles/HTTP_Server.dir/Parser.cpp.o CMakeFiles/HTTP_Server.dir/FileSystem.cpp.o CMakeFiles/HTTP_Server.dir/Actions.cpp.o CMakeFiles/HTTP_Server.dir/Worker.cpp.o CMakeFiles/HTTP_Server.dir/Request.cpp.o  -o HTTP_Server 
